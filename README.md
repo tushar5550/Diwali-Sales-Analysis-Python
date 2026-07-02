@@ -42,24 +42,25 @@ The project includes data cleaning, preprocessing, visualization, and business i
 - Food, Clothing, and Electronics were among the top-selling product categories.
 - Businesses can improve sales by targeting married women aged 26–35 through personalized marketing campaigns and regional promotions.
 
-# 📊 Project Visualizations
-1. Gender vs Sales
-(images/gender vs sales.png)
+## 📊 Project Screenshots
 
-2. Age Group Analysis
-(images/age group analysis.png)
+### Gender vs Sales
+![Gender vs Sales](gender-vs-sales.png)
 
-3. Top States by Sales
-(images/state sales.png)
+### Age Group Analysis
+![Age Group Analysis](age-group-analysis.png)
 
-4. Occupation-wise Sales
-(images/occupation sales.png)
+### State-wise Sales
+![State-wise Sales](state-sales.png)
 
-5. Product Category Sales
-(images/product category sales.png)
+### Occupation-wise Sales
+![Occupation-wise Sales](occupation-sales.png)
 
-6. Top Selling Products
-(images/top_products.png)
+### Product Category Sales
+![Product Category Sales](product-category-sales.png)
+
+### Top Selling Products
+![Top Selling Products](top-products.png)
 
 # Acknowledgements
 This project was completed as part of my Data Analytics learning journey.
