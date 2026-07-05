@@ -57,7 +57,7 @@ The project includes data cleaning, preprocessing, visualization, and business i
 ![Occupation-wise Sales](occupation-sales.png)
 
 ### Product Category Sales
-![Product Category Sales](product-category-sales.png)
+![Product Category Sales](product-category-sale.png)
 
 ### Top Selling Products
 ![Top Selling Products](top-products.png)
